@@ -1,0 +1,17 @@
+title: IETF Key Transparency WG
+email: keytrans@ietf.org
+github_username:  ietf-wg-keytrans
+description: >-
+  Key Transparency is a protocol for the secure and transparent
+  distribution of public keys. It allows the users of end-to-end encrypted
+  messaging services to authenticate each other without meeting in-person.
+baseurl: ""
+url: ""
+
+plugins:
+  - jekyll-seo-tag
+
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
