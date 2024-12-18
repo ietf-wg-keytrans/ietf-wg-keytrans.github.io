@@ -13,7 +13,7 @@ group](https://datatracker.ietf.org/wg/keytrans/about/).
 The proposed specification has two parts:
 
 - an [architecture document](https://ietf-wg-keytrans.github.io/draft-arch/draft-ietf-keytrans-architecture.html) ([source](https://github.com/ietf-wg-keytrans/draft-arch/blob/main/draft-ietf-keytrans-architecture.md), [diffs](https://ietf-wg-keytrans.github.io/draft-arch/)) that defines the terminology and interaction patterns involved, and
-- a protocol document (to be written) defining the protocol itself.
+- a [protocol document](https://ietf-wg-keytrans.github.io/draft-protocol/draft-ietf-keytrans-protocol.html) ([source](https://github.com/ietf-wg-keytrans/draft-protocol/blob/main/draft-ietf-keytrans-protocol.md), [diffs](https://ietf-wg-keytrans.github.io/draft-protocol/)) defining the protocol itself.
 
 The right place to ask any questions or keep on top of development is the
 [mailing list](https://mailarchive.ietf.org/arch/browse/keytrans/), or you can
